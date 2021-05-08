@@ -29,6 +29,9 @@ This isn't a sophisticated piece of code. It wasn't intednded to be. But any fee
 •Python Tkinter Button
   https://www.tutorialkart.com/python/tkinter/button/
   
+•Overriding Tkinter “X” button control 
+  https://stackoverflow.com/questions/3295270/overriding-tkinter-x-button-control-the-button-that-close-the-window
+  
   
   -----------------------------------------------------Attribution--------------------------------------------------------------
   Icons made by https://www.freepik.com
